@@ -1,6 +1,6 @@
 # do_it_diary
 
-A new Flutter project.
+2021하반기 플러터 프로젝트 위한 송정윤 작업물
 
 ## Getting Started
 
